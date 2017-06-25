@@ -36,21 +36,19 @@ margin:0px auto;
 padding: 5px;
 /*text-indent : -3em ;*/
 }
-.pos {
-	width: 20%;
-	height: 50px;
-  /*background:    #3d85c6;*/
-  /*background:    -webkit-linear-gradient(#3d85c6, #073763);*/
-  background:    linear-gradient(#3d85c6, #073763);
-  border-radius: 8px;
-  padding:       2px 15px;
-  color:         #ffffff;
-  /*display:       inline-block;*/
-  font:          normal 400 24px/1 "Zenhei", sans-serif;
-  text-align:    center;
-  text-shadow:   1px 1px #000000;
-}
 
+.button{
+  background: #3d85c6;
+background: -webkit-linear-gradient(#3d85c6, #073763);
+background: linear-gradient(#3d85c6, #073763);
+border-radius: 8px;
+padding: 10px 20px;
+color: #ffffff;
+/*display: inline-block;*/
+font: normal 400 25px/1 "Zenhei", sans-serif;
+text-align: center;
+text-shadow: 2px 2px #000000;
+}
 .footer{
 width: 80%;
 margin: 0px auto;
