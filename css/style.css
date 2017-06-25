@@ -7,24 +7,25 @@ width: 90%;
 margin: 0px auto;
 background-color: #0F75C3 ;
 /*rgba(51,51,51,0.8) url() 0 0 no-repeat;*/
-width: 100%;
+width: 70%;
 height: 220px;
 /*border-style: solid;*/}
 .head-1{	
-width: 100%;
-height: 170px;
+width: 90%;
+height: 180px;
 margin: 0px auto;
 background-color: #0FF196 ;
+/*color: #fff ;*/
 /*border-style: ridge;*/
 /*font-style: italic;*/
 }
 .nav-tabs{
-width: 100%;
+width: 80%;
 margin:0px auto;
 border-style: ridge;
 }
 .tab-content{
-width: 100%;
+width: 80%;
 margin:0px auto;
 border-style: ridge;
 }
@@ -35,10 +36,25 @@ margin:0px auto;
 padding: 5px;
 /*text-indent : -3em ;*/
 }
+.pos {
+	width: 20%;
+	height: 50px;
+  /*background:    #3d85c6;*/
+  /*background:    -webkit-linear-gradient(#3d85c6, #073763);*/
+  background:    linear-gradient(#3d85c6, #073763);
+  border-radius: 8px;
+  padding:       2px 15px;
+  color:         #ffffff;
+  /*display:       inline-block;*/
+  font:          normal 400 24px/1 "Zenhei", sans-serif;
+  text-align:    center;
+  text-shadow:   1px 1px #000000;
+}
+
 .footer{
-width: 100%;
+width: 80%;
 margin: 0px auto;
-height: 500px;
+height: 100px;
 background-color: #2AB4FD ;
 border-style: groove;
 }
